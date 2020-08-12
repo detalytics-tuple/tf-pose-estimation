@@ -21,6 +21,7 @@ REQUIRED_PACKAGES = [
     'dill==0.2.7.1',
     'fire >= 0.1.3',
     'matplotlib >= 2.2.2',
+    'tensorflow',
     'psutil >= 5.4.5',
     'requests >= 2.18.4',
     'scikit-image >= 0.13.1',
